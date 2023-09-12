@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 """"Contains the read_file function""""
 
 
