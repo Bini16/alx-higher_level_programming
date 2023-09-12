@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-
-""""Contains the "append after" function""""
+"""Contains the "append after" function"""
 
 
 def append_after(filename="", search_string="", new_string=""):

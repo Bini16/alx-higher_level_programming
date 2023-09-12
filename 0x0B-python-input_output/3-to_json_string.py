@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-
-""""contain the JSON string""""
+"""contain the JSON string"""
 
 import json
 
