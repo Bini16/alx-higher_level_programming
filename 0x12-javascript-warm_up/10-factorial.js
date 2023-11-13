@@ -1,16 +1,12 @@
 #!/usr/bin/node
 const a = Number(process.argv[2]);
-function fact (num) 
-{
-  if (num < 0) 
-{
+function fact (num) {
+  if (num < 0) {
     return (-1);
   }
-  if (num === 0 || isNaN(num)) 
-{
+  if (num === 0 || isNaN(num)) {
     return (1);
-  } else 
-{
+  } else {
     return num * fact(num - 1);
   }
 }
